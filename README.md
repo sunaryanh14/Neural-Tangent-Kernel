@@ -1,6 +1,10 @@
 ## <p style="text-align: center;">Neural Tangent Kernel</p> 
 ### <p style="text-align: center;">How do neural network learn and generalise well?</p> 
 
+<p align="center">
+    <img src=".\NTK.png"> 
+</p>
+
 **Neural Tangent Kernel (NTK)** is a kernel that describes the training dynamics of a neural network, allowing one to study the learning process and generalisation features of the network.
 
 In this code, we will study **Neural Networks with non-Gaussian Initialisation** through NTK with the following results:
