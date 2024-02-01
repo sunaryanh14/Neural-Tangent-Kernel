@@ -1,5 +1,5 @@
 ## <p style="text-align: center;">Neural Tangent Kernel</p> 
-### <p style="text-align: center;">How do neural network learn and generalise well?</p> 
+### <p style="text-align: center;">How does a neural network learn and generalise well?</p> 
 
 <p align="center">
     <img src=".\NTK.png"> 
