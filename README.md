@@ -13,4 +13,4 @@ In this code, we will study **Neural Networks with non-Gaussian Initialisation**
 2. **The limiting NTK does not depend on the choice of weight distributions in the hidden layers**, given the initial distribution for bias parameters in the hidden layers is Gaussian.
 3. **The limiting NTK approximates the finite-width neural network**, and as a result, it is possible to approximate the result of a trained neural network with non-Gaussian initialisation.
 
-This respository is the implementation of my master dissertation.
+This repository is the implementation of my master dissertation.
